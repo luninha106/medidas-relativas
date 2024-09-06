@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.primeira-sessão{
+    background-color: #FC49F5;
+    width: 500px;
+    height: 500px;
+    div{
+        background-color: #C44BFA ;
+        width: 50vw;
+        height: 50vh;
+        //vw e vh são relativos à tela
+    }
+    // vw (viewport width)
+    //largur da janela de visualização
+    //1vw é igual a 1% da largura da sua página
+    //vh (viewport height) p/altura
+}
+
+.segunda-sessão{
+    background-color: #5785FF;
+    height: 60vw;
+    width: 60vh;
+    div{
+        background-color: #5852FF;
+        width: 50%;
+        height: 50%;
+    }
+}

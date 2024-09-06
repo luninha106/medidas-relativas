@@ -1,0 +1,28 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.primeira-sessão {
+  background-color: #FC49F5;
+  width: 500px;
+  height: 500px;
+}
+.primeira-sessão div {
+  background-color: #C44BFA;
+  width: 50vw;
+  height: 50vh;
+}
+
+.segunda-sessão {
+  background-color: #5785FF;
+  height: 60vw;
+  width: 60vh;
+}
+.segunda-sessão div {
+  background-color: #5852FF;
+  width: 50%;
+  height: 50%;
+}/*# sourceMappingURL=style.css.map */
